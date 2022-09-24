@@ -1,1 +1,122 @@
-/* add your css styles here! */
+h1 {
+    color: white;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-size: 60pt;
+}
+
+h2 {
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-size: 36pt;
+}
+
+h5 {
+    font-size: 20pt;
+}
+
+.subheading {
+    color: white;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-size: 20pt;
+    font-weight: lighter;
+}
+
+.subheadingTwo {
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-size: 15pt;
+    font-weight: 300;
+    margin-bottom: 32px;
+}
+
+.btn-outline-secondary {
+    color: white;
+    border-color: white;
+    border-radius: 0%;
+    height: 50px;
+    font-size: 16pt;
+    font-weight: 300;
+}
+
+.jumbotron {
+    background-image: url(../images/1.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 640px;
+    position: relative;
+}
+
+.heading {
+    width: 1200px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.natureSightseeings {
+    margin-top: 60px;
+    text-align: center;
+
+}
+
+.card {
+    border: none;
+    text-align: left;
+}
+
+.card-text {
+    padding-bottom: 60px;
+    max-width: 760px;
+}
+
+.foodAdventure {
+    background-image: url(../images/5.png);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 420px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+}
+
+.card-body {
+    text-align: center;
+    padding-top: 40px;
+}
+
+.bigCities {
+    background-image: url(../images/6.png);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 420px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+}
+
+.driving {
+    text-align: center;
+    background-color: rgb(207, 225, 225);
+    padding-top: 60px;
+}
+
+.imageContainer {
+    margin-top: 32px;
+}
+
+.card-tip {
+    background-color: rgb(207, 225, 225);
+    text-align: left;
+}
+
+.spasing {
+    height: 40px;
+}
