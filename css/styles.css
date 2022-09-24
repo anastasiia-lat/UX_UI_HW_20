@@ -106,6 +106,7 @@ h5 {
     text-align: center;
     background-color: rgb(207, 225, 225);
     padding-top: 60px;
+    padding-bottom: 60px;
 }
 
 .imageContainer {
@@ -119,4 +120,32 @@ h5 {
 
 .spasing {
     height: 40px;
+}
+
+.footer {
+    text-align: center;
+}
+
+.btn-primary {
+    margin-top: 24px;
+    margin-bottom: 24px;
+    background-color: rgb(30, 88, 105);
+    color: white;
+    border-radius: 0cm;
+    border: 0ch;
+    height: 50px;
+    font-size: 16pt;
+    font-weight: 300;
+}
+
+.btn-secondary {
+    margin-top: 24px;
+    margin-bottom: 24px;
+    background-color: rgb(208, 129, 128);
+    color: rgb(0, 0, 0);
+    border-radius: 0cm;
+    border: 0ch;
+    height: 50px;
+    font-size: 16pt;
+    font-weight: 300;
 }
